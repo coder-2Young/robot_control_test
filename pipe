@@ -1,0 +1,2 @@
+g++ -o rbt.out rbt.cpp general_6s.cpp general_6s.h project_base/* -lrt -lpthread -std=c++11 -m32
+scp rbt.out inexbot@192.168.3.133:~/robot
